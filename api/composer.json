@@ -11,7 +11,8 @@
         "symfony/dotenv": "4.2.*",
         "symfony/flex": "^1.1",
         "symfony/framework-bundle": "4.2.*",
-        "symfony/yaml": "4.2.*"
+        "symfony/yaml": "4.2.*",
+        "webonyx/graphql-php": "^0.13.0"
     },
     "require-dev": {
         "api-platform/schema-generator": "^2.1",
